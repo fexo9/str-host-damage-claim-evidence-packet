@@ -43,7 +43,7 @@ losing it to missing photos, missing receipts, or a missed deadline.
 
 - **Free sample:** read the free excerpt (decision flow, deadlines, fictional
   mini-example) before you buy. [LINK — to be attached]
-- **Demo video:** 72-second walkthrough of the real v2.0 files. [LINK — to be attached]
+- **Demo video:** 72-second walkthrough of the real v2.0 files. https://www.youtube.com/watch?v=n6kjuwt9EC4
 
 ## What it does NOT do
 
